@@ -1,0 +1,8 @@
+weekend,phase,time,temp,place
+No,Morning,Second,moderate,Balcony
+No,Evening,Third,cool,Bedroom
+Yes,Morning,Second,high,Hall
+Yes,Evening,First,high,Balcony
+Yes,Morning,First,moderate,Bedroom
+No,Evening,Second,cool,Balcony
+No,Morning,Third,cool,Hall
