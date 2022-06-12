@@ -1,0 +1,35 @@
+section {
+  padding: 4rem 0;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  color: #fff;
+  background-color: #00ffff !important;
+}
+
+.text-primary {
+  color: purple !important;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active,
+#mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
+  color: #0dcaf0 !important;
+}
+
+#mainNav.navbar-shrink .navbar-brand {
+  color: #0dcaf0 !important;
+}
+
+.portfolio-box .portfolio-box-caption {
+  background: rgb(13, 202, 240, 0.9);
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
+hr {
+  border-color: black !important;
+}
