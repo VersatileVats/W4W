@@ -98,20 +98,8 @@ A total of **100 jumper wires and 30 electrical sensors** have been used to make
     <td><a href="https://wheels4water.me">Click here</a></td>
   </tr>
   <tr>
-    <td>Website Working Video</td>
-    <td><a href="https://drive.google.com/file/d/1TElGXHK-PPvr-aDazwbU4M_G7bMSn53o/view?usp=sharing">Click here</a></td>
-  </tr>
-  <tr>
-    <td>Final Working Video</td>
-    <td><a href="https://youtu.be/XQHRkYjVgrg">Click here</a></td>
-  </tr>
-  <tr>
-    <td>Python Voice Control Video</td>
-    <td><a href="https://drive.google.com/file/d/1OxcSEAJluwW0qo33UCMl-ExliPQhlra4/view?usp=sharing">Click here</a></td>
-  </tr>
-  <tr>
-    <td>Presentation View Link</td>
-    <td><a href="https://www.canva.com/design/DAE87Oz7gBM/K7XkDWJ3dVoPASDTmCMp-g/view?utm_content=DAE87Oz7gBM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Click here</a></td>
+    <td>Documentation & videos link</td>
+    <td><a href="https://www.hackster.io/vishalvats2000/water-saviours-let-s-paddle-away-through-water-mgmt-issues-6c0fb4">Click here</a></td>
   </tr>
 </table>
 
