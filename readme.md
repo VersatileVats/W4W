@@ -116,6 +116,6 @@ A total of **100 jumper wires and 30 electrical sensors** have been used to make
 </table>
 
 <p>
-Check out the faqs.md file also where we have tried to answer some general questions which may arise in the reader's mind. We have used Twilio & GitHub to the full extent so that we can make the project perform to the full extent.
+Check out the faqs.md file also where I have tried to answer some general questions which may arise in the reader's mind. I have used Twilio & GitHub to the full extent so that I can make the project perform to the full extent.
 </p>
-<p><b>Note:</b> Please check the entire videos and documents as I have tried mu best to make a project which can be useful to amnking and it is a unique project in its domain and uses many utilities.</p>
+<p><b>Note:</b> Please check the entire videos and documents as I have tried my best to make a project which can be useful to amnking and it is a unique project in its domain and uses many utilities.</p>
