@@ -28,12 +28,6 @@
                             <div style="background: #e3e3e3;border-radius: 25px;padding: 10px;"><i class="fa fa-envelope" style="margin-left: 15px;color: rgb(152,152,152);"></i>
                                 <input type="text" style="background: rgba(255,255,255,0);border-style: none;margin-left: 11px;color: rgb(152,152,152);" placeholder="Email" required>
                             </div>
-                            <div style="background: #e3e3e3;border-radius: 25px;padding: 10px;margin-top: 15px;"><i class="fa fa-lock" style="margin-left: 15px;color: rgb(152,152,152);font-size: 20px;"></i>
-                                <input type="text" style="background: rgba(255,255,255,0);border-style: none;margin-left: 11px;color: rgb(152,152,152);" placeholder="Password" required="" title="Minimum 8 characters and 1 special character required">
-                            </div>
-                            <div class="d-grid gap-2">
-                                <button class="btn btn-primary" style="border-radius: 25px;padding: 10px;margin-top: 15px;" type="submit">Login</button>
-                            </div>
                         </form>
 
                         <div>
@@ -46,7 +40,6 @@
             </div>
         </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../js/bs-init.js"></script>
 </body>
 
