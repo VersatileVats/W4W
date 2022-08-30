@@ -97,10 +97,11 @@ A total of **100 jumper wires and 30 electrical sensors** have been used to make
     <td>Website</td>
     <td><a href="https://wheels4water.me">Click here</a></td>
   </tr>
-  <!--<tr>
-    #<td>Documentation & videos link</td>
-    #<td><a href="https://www.hackster.io/vishalvats2000/water-saviours-let-s-paddle-away-through-water-mgmt-issues-6c0fb4">Click here</a></td>
-  </tr> --!>
+  <tr>
+    <td>Documentation & videos link</td>
+    <!--<td><a href="https://www.hackster.io/vishalvats2000/water-saviours-let-s-paddle-away-through-water-mgmt-issues-6c0fb4">Click here</a></td>!-->
+    <td><a href="https://youtu.be/XQHRkYjVgrg">Click here</a></td>
+  </tr>
 </table>
 
 <p>
