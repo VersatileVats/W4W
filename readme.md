@@ -95,7 +95,7 @@ A total of **100 jumper wires and 30 electrical sensors** have been used to make
   </tr>
   <tr>
     <td>Website</td>
-    <td><a href="https://wheels4water.me">Click here</a></td>
+    <td><a href="https://versatilevats.tech/w4w">Click here</a></td>
   </tr>
   <tr>
     <td>Video link</td>
